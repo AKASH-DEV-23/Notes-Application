@@ -1,0 +1,25 @@
+# Java / Spring Boot
+/target/
+*.class
+*.jar
+*.war
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+
+# Node.js / Next.js frontend
+/frontend/node_modules/
+/frontend/.next/
+/frontend/out/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
