@@ -4,6 +4,10 @@ A secure and modern web-based Notes Application that enables users to register, 
 
 ---
 
+<img width="1361" height="644" alt="Image" src="https://github.com/user-attachments/assets/102f93cb-72ac-4356-924b-2853880951bf" />
+
+---
+
 ## 🔧 Tech Stack
 
 | Layer       | Technology                      |
